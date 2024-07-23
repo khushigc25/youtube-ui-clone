@@ -1,4 +1,4 @@
-# youtube-clone
+# youtube-ui-clone
 <br>
 This project is a clone of the YouTube homepage created using HTML and CSS. It aims to replicate the look and feel of the YouTube homepage, including the header, search bar, video thumbnails, and footer. 
 <br>
@@ -17,5 +17,5 @@ The project showcases my skills in front-end web development and demonstrates my
   <li>CSS</li>
 </ul>
 <hr>
-<h1>Link to the Website:</h1>
+<h1>Link:</h1>
 <a href="https://khushigc25.github.io/youtube-clone/">YouTube Clone</a>
