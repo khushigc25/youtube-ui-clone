@@ -18,4 +18,4 @@ The project showcases my skills in front-end web development and demonstrates my
 </ul>
 <hr>
 <h1>Link:</h1>
-<a href="https://khushigc25.github.io/youtube-clone/">YouTube Clone</a>
+<a href="https://youtube-ui-clone-k.netlify.app/">YouTube Clone</a>
